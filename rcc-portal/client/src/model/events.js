@@ -1,0 +1,43 @@
+export const events = [
+    { id:'1',
+    image: 'assets/testData.jpeg',
+    title: 'event 1',
+    date: '11/02/2022',
+    desc: 'sasasssasasasasasasasadgfgfgsas',
+    },
+
+    { id:'2',
+    image: 'assets/testData.jpeg',
+    title: 'event 2',
+    date: '11/02/2022',
+    desc: 'sasasssasasasasasasasadgfgfgsas',
+    },
+
+    { id:'3',
+    image: 'assets/testData.jpeg',
+    title: 'event 3',
+    date: '11/02/2022',
+    desc: 'sasasssasasasasasasasadgfgfgsas',
+    },
+
+    { id:'4',
+    image: 'assets/testData.jpeg',
+    title: 'event 4',
+    date: '11/02/2022',
+    desc: 'sasasssasasasasasasasadgfgfgsas',
+    },
+
+    { id:'5',
+    image: 'assets/testData.jpeg',
+    title: 'event 5',
+    date: '11/02/2022',
+    desc: 'sasasssasasasasasasasadgfgfgsas',
+    },
+
+    { id:'6',
+    image: 'assets/testData.jpeg',
+    title: 'event 6',
+    date: '11/02/2022',
+    desc: 'sasasssasasasasasasasadgfgfgsas',
+    },
+]

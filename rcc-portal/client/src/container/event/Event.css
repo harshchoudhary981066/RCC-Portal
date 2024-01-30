@@ -1,0 +1,24 @@
+.event-main {
+  display: flex;
+}
+
+.event-left {
+  flex: 6;
+}
+
+.event-right {
+  flex: 6;
+}
+
+.header {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 10px;
+}
+
+.header__img {
+  width: 100%;
+  height: 450px;
+  /* margin-top: 80px; */
+  object-fit: cover;
+}

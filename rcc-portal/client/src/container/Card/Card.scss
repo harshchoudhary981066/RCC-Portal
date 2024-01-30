@@ -1,0 +1,30 @@
+.animation {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  background-color: #fff;
+  color: #000;
+  cursor: pointer;
+  transition: all 0.3s ease;
+
+  &:hover {
+    transform: scale(1.01);
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  }
+}
+
+.card-title-text-left {
+  text-align: left;
+}
+
+.card-title-text-right {
+  text-align: right;
+}
+
+@media screen and (max-width: 768px) {
+  .card-title-text-left,
+  .card-title-text-right {
+    text-align: center;
+    font-size: 0.5rem;
+  }
+}
